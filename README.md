@@ -1,2 +1,2 @@
 # Kaggle
-A repository for my codes in kaggle
+A repository for some of my codes in kaggle.
